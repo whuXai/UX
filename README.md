@@ -13,7 +13,7 @@
 还整理了一个[相关的书单]()。
 
 # 2nd
-寻找[合适的课程]()，对知识点进行结构化。
+寻找[合适的课程](https://shimo.im/docs/mcnJah3QMhoDuglJ/)，对知识点进行结构化。
 
 我看到了[IDF](https://www.interaction-design.org/)和[NN/g](https://www.nngroup.com/training/)的课程大纲，特别是IDF的课表：
 
