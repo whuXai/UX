@@ -10,7 +10,7 @@
 * 成长之路：初级、中级、高级设计师
 * 未来变化：场景变化、发展变化、输出变化、成长变化
 
-还整理了一个[相关的书单]()。
+还整理了一个[相关的书单](https://shimo.im/docs/wvEWwNm5ZXMFEkst/)。
 
 # 2nd
 寻找[合适的课程](https://shimo.im/docs/mcnJah3QMhoDuglJ/)，对知识点进行结构化。
@@ -50,7 +50,7 @@ C高阶
 加1
 * TUI有形的交互
 * VUI有声的交互（[How To](https://www.interaction-design.org/literature/article/how-to-design-voice-user-interfaces)）
-* NUI自然的交互（[what](https://www.interaction-design.org/literature/article/natural-user-interfaces-what-are-they-and-how-do-you-design-user-interfaces-that-feel-natural)）
+* NUI自然的交互（[What & How To](https://www.interaction-design.org/literature/article/natural-user-interfaces-what-are-they-and-how-do-you-design-user-interfaces-that-feel-natural)）
 * [AR/VR交互设计](https://shimo.im/docs/cpVVdTJqyQdH3YvR/)
 * xAI，体验设计如何更好的利用人工智能相关技术
 
